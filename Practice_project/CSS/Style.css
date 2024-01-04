@@ -1,0 +1,14 @@
+
+#me{
+    font-size: 40px;
+    border: 10px solid brown;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: brown;
+    color:turquoise;
+    margin:2px;
+
+    background-image: url('../Image/burger.jfif');
+    background-repeat: none;
+    background-size: cover;
+}
